@@ -1,4 +1,4 @@
-# exemplo_padrao
+# exemplo_padrao_flutter
 
 A new Flutter project.
 
